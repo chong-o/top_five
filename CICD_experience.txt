@@ -1,0 +1,4 @@
+The closest CI/CD experience I have was from CS3114, doing mutation testing and unit testing throughout the projects were key to keeping
+ourselves sane, as going too far into development without testing would mean something could be made incorrectly, or we misunderstood 
+the instructions, and the outputs would be wrong. This would have been a nightmare had we not consistently tested our projects throughout
+the development process.
