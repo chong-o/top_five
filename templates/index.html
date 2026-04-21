@@ -46,6 +46,11 @@
         <button type="submit">Submit</button>
     </form>
 
+    <button type="button" onclick="document.querySelector('form').reset()" 
+        style="background: #ef4444; margin-left: 10px;">
+    Clear Form
+</button>
+
     <h2>Submissions</h2>
     {% if submissions %}
         <table>
